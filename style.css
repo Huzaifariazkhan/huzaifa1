@@ -1,0 +1,135 @@
+/* h1{
+    background-color: #FF101F;
+    color: #7EC5F1;
+} */
+.a{
+    height: 100px;
+    width: 100px;
+    border-left: 5px solid blue;
+}
+
+.b{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-left: none;
+}
+
+.b2{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-right: none;
+}
+
+.c{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-left: none;
+}
+
+.c2{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-left: none;
+}
+
+.d{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-top: none;
+}
+
+.d2{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-left: none;
+    border-bottom: none;
+}
+
+.e{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-right: none;
+}
+
+.e2{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-left: none;
+}
+
+.f{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-right: none;
+}
+
+.f2{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+}
+
+.g{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+    border-left: none;
+    border-bottom: none;
+}
+
+.g2{
+    height: 100px;
+    width: 100px;
+    border-right: 5px solid blue;
+    border-bottom: none;
+}
+
+.h{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+}
+
+.h2{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+}
+
+.i{
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+}
+
+.i2{
+    height: 100px;
+    width: 100px;
+    border-right: 5px solid blue;
+}
+
+.j0{
+    display: flex;
+    gap: 5px;
+}
+
+.j{
+    height: 200px;
+    width: 0px; 
+    border-left: 5px solid blue;
+}
+
+.j2{
+    height: 200px;
+    width: 100px;
+    border: 5px solid blue;
+}
