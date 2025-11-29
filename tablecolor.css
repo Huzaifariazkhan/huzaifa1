@@ -1,0 +1,249 @@
+p{
+    color:blue
+    
+} 
+
+.th{
+    color: black;
+}
+
+#a1 {
+
+    background-color: rgba(245, 40, 145, 1);
+    color: rgb(155, 32, 52);
+ }
+ .left{
+   background-color: blue;
+   color: blue;
+ }
+ #a2{
+    background-color: rgba(245, 40, 145, 0.9);
+    color: rgb(155, 32, 52);
+ }
+ #a3{
+    background-color: rgba(245, 40, 145, 0.8);
+    color: rgb(155, 32, 52);
+ }
+  #a4{
+    background-color: rgba(245, 40, 145, 0.7);
+    color: rgb(155, 32, 52);
+ }
+  #a5{
+    background-color: rgba(245, 40, 145, 0.6);
+    color: rgb(155, 32, 52);
+ }
+  #a6{
+    background-color: rgba(245, 40, 145, 0.5);
+    color: rgb(155, 32, 52);
+ }
+  #a7{
+    background-color: rgba(245, 40, 145, 0.4);
+    color: rgb(155, 32, 52);
+ }
+  #a8{
+    background-color: rgba(245, 40, 145, 0.3);
+    color: rgb(155, 32, 52);
+ }
+  #a9{
+    background-color: rgba(245, 40, 145, 0.2);
+    color: rgb(155, 32, 52);
+ }
+  #a10{
+    background-color: rgba(245, 40, 145, 0.1);
+    color: rgb(155, 32, 52);
+ }
+ .left11{
+   background-color: rgba(0, 0, 255, 1);
+   color: blue;
+ }
+ .left12{
+   background-color: rgba(0, 0, 255, 0.9);
+   color: blue;
+ }
+ .left13{
+   background-color: rgba(0, 0, 255, 0.8);
+   color: blue;
+ }
+ .left14{
+   background-color: rgba(0, 0, 255, 0.7);
+   color: blue;
+ }
+ .left15{
+   background-color: rgba(0, 0, 255, 0.6);
+   color: blue;
+ }
+ .left16{
+   background-color: rgba(0, 0, 255, 0.5);
+   color: blue;
+ }
+ .left17{
+   background-color: rgba(0, 0, 255, 0.4);
+   color: blue;
+ }
+ .left18{
+   background-color: rgba(0, 0, 255, 0.3);
+   color: blue;
+ }
+ .left19{
+   background-color: rgba(0, 0, 255, 0.2);
+   color: blue;
+ }
+ .left20{
+   background-color: rgba(0, 0, 255, 0.1);
+   color: blue;
+ }
+ .right21{
+   background-color:rgba(255, 0, 0, 1) ;
+   color: red;
+ }
+  .right22{
+   background-color:rgba(255, 0, 0, 0.9) ;
+    color: red;
+
+ }
+  .right23{
+   background-color:rgba(255, 0, 0, 0.8) ;
+    color: red;
+
+ }
+  .right24{
+   background-color:rgba(255, 0, 0, 0.7) ;
+    color: red;
+
+ }
+  .right25{
+   background-color:rgba(255, 0, 0, 0.6) ;
+    color: red;
+
+ }
+  .right26{
+   background-color:rgba(255, 0, 0, 0.5) ;
+    color: red;
+
+ }
+  .right27{
+   background-color:rgba(255, 0, 0, 0.4) ;
+    color: red;
+
+ }
+  .right28{
+   background-color:rgba(255, 0, 0, 0.3) ;
+    color: red;
+
+ }
+  .right29{
+   background-color:rgba(255, 0, 0, 0.2) ;
+    color: red;
+
+ }
+  .right30{
+   background-color:rgba(255, 0, 0, 0.1) ;
+    color: red;
+
+ }
+ .left31{
+   background-color: rgba(0, 128, 0, 1);
+   color: green;
+
+ }
+  .left32{
+   background-color: rgba(0, 128, 0, 0.9);
+   color: green;
+   
+   
+ }
+  .left33{
+   background-color: rgba(0, 128, 0, 0.8);
+   color: green;
+   
+ }
+  .left34{
+   background-color: rgba(0, 128, 0, 0.7);
+   color: green;
+   
+ }
+  .left35{
+   background-color: rgba(0, 128, 0, 0.6);
+   color: green;
+   
+ }
+  .left36{
+   background-color: rgba(0, 128, 0, 0.5);
+   color: green;
+ }
+  .left37{
+   background-color: rgba(0, 128, 0, 0.4);
+   color: green;
+   
+ }
+  .left38{
+   background-color: rgba(0, 128, 0, 0.3);
+   color: green;
+   
+ }
+  .left39{
+   background-color: rgba(0, 128, 0, 0.2);
+   color: green;
+   
+ }
+  .left40{
+   background-color: rgba(0, 128, 0, 0.1);
+   color: green;
+   
+ }
+  .right41{
+   background-color: rgba(255, 255, 0, 1);
+   color: yellow;
+
+   
+ }
+  .right42{
+    background-color: rgba(255, 255, 0, 0.9);
+    color: yellow;
+   
+ }
+  .right43{
+    background-color: rgba(255, 255, 0, 0.8);
+    color: yellow;
+ }
+  .right44{
+    background-color: rgba(255, 255, 0, 0.7);
+    color: yellow;
+   
+ }
+  .right45{
+    background-color: rgba(255, 255, 0, 0.6);
+    color: yellow;
+   
+ }
+  .right46{
+    background-color: rgba(255, 255, 0, 0.5);
+    color: yellow;
+   
+ }
+  .right47{
+    background-color: rgba(255, 255, 0, 0.4);
+    color: yellow;
+   
+ }
+  .right48{
+    background-color: rgba(255, 255, 0, 0.3);
+    color: yellow;
+   
+ }
+  .right49{
+    background-color: rgba(255, 255, 0, 0.2);
+    color: yellow;
+   
+ }
+  .right50{
+    background-color: rgba(255, 255, 0, 0.1);
+    color: yellow;
+   
+ }
+ 
+ .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
