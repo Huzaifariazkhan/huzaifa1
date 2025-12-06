@@ -1,4 +1,4 @@
-input {
+/* input {
 font-size: 120%;
 color: #5a5854;
 background-color: #f2f2f2;
@@ -21,4 +21,21 @@ input#twitter {
 background-image: url("images/twitter.png");}
 
 input#web {
-background-image: url("images/web.png");}
+background-image: url("images/web.png");} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    
+    --main-color: #3498db;
+    --accent-color: #e74c3c;
+}
+
+.prac{
+    --main_color: #34198db;
+    background-color: var(--main-color);
+}

@@ -1,17 +1,41 @@
 .pro {
-    height: 100px;
+    height: 70px;
     width: 100%;
-    background-color: rgb(134, 70, 163);
+    background-color: rgb(247, 198, 37);
     position: sticky;
     top: 0;  
     
 }
 
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 30px;
+    /* gap: 50px; */
+}
+
+a{
+    margin-left: 50px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.pic{
+    background-image: url(javednihari.webp);
+    background-size: cover;
+    height: 80vh;
+    width: 100wh;
+}
+
 .btn{
+    height: 50px;
+    width: 50px;
     background-color: rgb(207, 95, 39);
     position: fixed;
     right: 20px;
     top: 90%;
-    padding: 12px 20px;
+    /* padding: 12px 20px; */
     border-radius: 50%;
 }
