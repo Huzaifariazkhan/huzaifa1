@@ -23,11 +23,6 @@ background-image: url("images/twitter.png");}
 input#web {
 background-image: url("images/web.png");} */
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 :root{
     
@@ -36,6 +31,9 @@ background-image: url("images/web.png");} */
 }
 
 .prac{
-    --main_color: #34198db;
     background-color: var(--main-color);
+
 }
+
+
+
