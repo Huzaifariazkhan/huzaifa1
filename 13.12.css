@@ -1,0 +1,39 @@
+.new{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    background-color: blue;
+    margin: 50px;
+    animation-name: new;
+    animation-duration: 2s;       
+    animation-iteration-count: infinite; 
+}
+
+@keyframes new {
+    from{
+        height: 50px;
+        width: 50px;
+    }
+    to{
+        height: 200px;
+        width: 200px;
+    }
+}
+
+.p{
+  animation-duration: 3s;
+  animation-name: slide-in;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+@keyframes slide-in {
+  from {
+    translate: 150vw 0;
+    scale: 200% 1;
+  }
+
+  to {
+    translate: 0 0;
+    scale: 100% 1;
+  }
+}
